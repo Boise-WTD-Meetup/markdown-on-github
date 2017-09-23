@@ -1,3 +1,5 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Boise-WTD-Meetup/markdown-on-github/master?grs=github&t=white)
+
 # markdown-on-github
 Presentation on Markdown basics and GitHub Pages
 

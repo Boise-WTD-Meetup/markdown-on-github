@@ -1,5 +1,6 @@
 ---
-theme: beige
-highlight: solarized-light
-slide-number: true
+charts: true
 footnote: "© 2017 Bryan Davis and contributors. CC-BY 4.0"
+highlight: solarized-light
+mathjax: TeX-AMS_HTML-full
+slide-number: true
