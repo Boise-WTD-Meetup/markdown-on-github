@@ -1,8 +1,6 @@
 # Getting started with ![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/100px-Markdown-mark.svg.png) & ![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/100px-Octicons-mark-github.svg.png)
-
-2017-09-26 Boise WriteTheDocs Meetup
-
-Bryan Davis <bd808@bd808.com>
+##### 2017-09-26 Boise WriteTheDocs Meetup
+##### Bryan Davis <bd808@bd808.com>
 
 ---
 
@@ -15,15 +13,12 @@ What is Markdown?
 >
 > <small>— ["Markdown"](https://en.wikipedia.org/w/index.php?title=Markdown&oldid=801461295) Wikipedia: The Free Encyclopedia. Wikimedia Foundation, Inc. 19 September 2017. Web. 23 September 2017.</small>
 
-+++
+---
 
-#### Standards?
+A short primer
+--------------
 
-* [Markdown 1.0.1](https://daringfireball.net/projects/markdown/)
-* [CommonMark](http://commonmark.org/)
-* [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-+++
+---
 
 Text
 ----
@@ -31,14 +26,16 @@ Text
 Paragraphs are just plain text in your source document.
 You can use newlines to hard wrap the source for easier reading.
 
-If you need a `<br>` in the output, end the source line with 2 or more spaces  
+If you need a `<br>` in the output,  
+end the source line with 2 or more spaces
 *or* just use a literal `<br>` in the source.
 
+Note:
 You can mix in raw HTML markup at any time with most Markdown translators. The
 HTML allowed may be limited depending on the translator. This is especially
 true when Markdown is being used as a way to input rich text in websites.
 
-+++
+---
 
 Emphasis, links, & images
 -------------------------
@@ -49,7 +46,7 @@ Emphasis, links, & images
 * [link](https://example.com/) - ``[link](url to link to)``
 * ![Unicorns!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emoji_u1f984.svg/32px-Emoji_u1f984.svg.png) - `![alt text](url of image)`
 
-+++
+---
 
 Headings
 ------
@@ -69,7 +66,7 @@ H2 Heading
 ###### H6 Heading
 ```
 
-+++
+---
 
 Lists
 -----
@@ -92,8 +89,22 @@ numbering that makes the source document easily readable.
 
 ---
 
-Markdown on GitHub
-------------------
+Standards
+---------
+
+* [Markdown 1.0.1](https://daringfireball.net/projects/markdown/)
+* [CommonMark](http://commonmark.org/)
+* [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+---
+
+Markdown & GitHub
+-----------------
+
+* [Gists](https://gist.github.com/)
+* Comments on Issues and Pull Requests
+* Files with `.md` or `.markdown` extensions
+* [GitHub Pages](https://pages.github.com/)
 
 ---
 

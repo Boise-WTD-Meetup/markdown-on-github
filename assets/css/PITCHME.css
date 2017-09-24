@@ -12,7 +12,19 @@
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
+.reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: none;
+}
 .reveal code {
-  color: #657b83;
   background: #fdf6e3;
+  border-radius: 3px;
+  border: 1px solid #657b83;
+  color: #657b83;
+  margin: 0 2px;
+  padding: 0 5px;
+}
+.reveal pre code {
+  border: none;
+  margin: 0;
+  padding: 0;
 }
