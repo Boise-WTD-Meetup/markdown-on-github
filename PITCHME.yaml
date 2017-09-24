@@ -4,3 +4,6 @@ footnote: "© 2017 Bryan Davis and contributors. CC-BY 4.0"
 highlight: solarized-light
 mathjax: TeX-AMS_HTML-full
 slide-number: true
+theme-override : assets/css/PITCHME.css
+theme: white
+vertical-center : false
