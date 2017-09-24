@@ -37,17 +37,6 @@ true when Markdown is being used as a way to input rich text in websites.
 
 ---
 
-Emphasis, links, & images
--------------------------
-
-* _italic_ - `_italic_` or `*italic*`
-* **bold** - `**bold**` or `__bold__`
-* `code` - `` `code` ``
-* [link](https://example.com/) - ``[link](url to link to)``
-* ![Unicorns!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emoji_u1f984.svg/32px-Emoji_u1f984.svg.png) - `![alt text](url of image)`
-
----
-
 Headings
 ------
 
@@ -68,6 +57,17 @@ H2 Heading
 
 ---
 
+Emphasis, links, & images
+-------------------------
+
+* _italic_ - `_italic_` or `*italic*`
+* **bold** - `**bold**` or `__bold__`
+* `code` - `` `code` ``
+* [link](https://example.com/) - ``[link](url to link to)``
+* ![Unicorns!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emoji_u1f984.svg/32px-Emoji_u1f984.svg.png) - `![alt text](url of image)`
+
+---
+
 Lists
 -----
 
@@ -84,6 +84,8 @@ Ordered lists use numbers followed by periods:
 2. item 2
 3. item 3
 ```
+
+Note:
 The actual number used does not matter, but common convention is to use
 numbering that makes the source document easily readable.
 
@@ -107,6 +109,17 @@ Markdown & GitHub
 * [GitHub Pages](https://pages.github.com/)
 
 ---
+
+Static site generators
+----------------------
+
+* [Jekyll](https://github.com/jekyll/jekyll)
+* [Pelican](http://docs.getpelican.com/en/stable/)
+* [Hugo](http://gohugo.io/)
+* [Many more...](https://www.staticgen.com/)
+
+---
+
 
 Credits
 -------
