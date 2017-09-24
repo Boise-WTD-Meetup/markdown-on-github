@@ -15,11 +15,6 @@ What is Markdown?
 
 ---
 
-A short primer
---------------
-
----
-
 Text
 ----
 
