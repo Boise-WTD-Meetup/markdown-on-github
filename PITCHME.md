@@ -58,7 +58,7 @@ Emphasis, links, & images
 * _italic_ - `_italic_` or `*italic*`
 * **bold** - `**bold**` or `__bold__`
 * `code` - `` `code` ``
-* [link](https://example.com/) - ``[link](url to link to)``
+* [link](https://example.com/) - `[link]​(url to link to)`
 * ![Unicorns!](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emoji_u1f984.svg/32px-Emoji_u1f984.svg.png) - `![alt text](url of image)`
 
 ---
