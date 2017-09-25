@@ -119,9 +119,10 @@ Static site generators
 Credits
 -------
 
-* Except where otherwise noted - Copyright (c) 2017 Bryan Davis and contributors, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-* [Markdown mark](https://github.com/dcurtis/markdown-mark) - Copyright (c) 2017 Dustin Curtis, [CC0](https://github.com/dcurtis/markdown-mark/blob/f2e4b0b14b2ebb0465d88e8a26c9d65de89190a3/LICENSE)
-* [GitHub logo](https://github.com/primer/octicons) - (c) 2012-2016 GitHub, Inc., [SIL OFL 1.1](http://scripts.sil.org/OFL)
-* [Unicorn face emoji](https://github.com/googlei18n/noto-emoji/blob/f2a4f72/svg/emoji_u1f984.svg) - (c) 2017 Google Inc., [Apache2](https://github.com/googlei18n/noto-emoji/blob/f7abf9645ce10d923fb5e8bccf62e0ffae47b999/LICENSE)
-* [GitPitch](https://gitpitch.com/) - Copyright (c) 2016 David Russell,
+* [Markdown mark](https://github.com/dcurtis/markdown-mark) - By Dustin Curtis, [CC0](https://github.com/dcurtis/markdown-mark/blob/f2e4b0b14b2ebb0465d88e8a26c9d65de89190a3/LICENSE)
+* [GitHub logo](https://github.com/primer/octicons) - By GitHub, Inc., [SIL OFL 1.1](http://scripts.sil.org/OFL)
+* [Unicorn face emoji](https://github.com/googlei18n/noto-emoji/blob/f2a4f72/svg/emoji_u1f984.svg) - By Google Inc., [Apache2](https://github.com/googlei18n/noto-emoji/blob/f7abf9645ce10d923fb5e8bccf62e0ffae47b999/LICENSE)
+* [GitPitch](https://gitpitch.com/) - By David Russell,
   [MIT License](https://github.com/gitpitch/gitpitch/blob/7c4efa5ab0fa5808d81000d3f167a811586b2685/LICENSE.txt)
+
+Except where otherwise noted - Copyright (c) 2017 Bryan Davis and contributors, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
