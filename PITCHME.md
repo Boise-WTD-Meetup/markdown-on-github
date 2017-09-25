@@ -10,8 +10,10 @@ What is Markdown?
 > Markdown is a lightweight markup language with plain text formatting syntax.
 > It is designed so that it can be converted to HTML and many other formats
 > using a tool by the same name.
->
-> <small>— ["Markdown"](https://en.wikipedia.org/w/index.php?title=Markdown&oldid=801461295) Wikipedia: The Free Encyclopedia. Wikimedia Foundation, Inc. 19 September 2017. Web. 23 September 2017.</small>
+> <footer> — <cite>
+> ["Markdown"](https://en.wikipedia.org/w/index.php?title=Markdown&oldid=801461295) Wikipedia: The Free Encyclopedia.
+> Wikimedia Foundation, Inc. 19 September 2017. Web.
+> 23 September 2017.</cite></footer>
 
 ---
 
@@ -119,10 +121,16 @@ Static site generators
 Credits
 -------
 
-* [Markdown mark](https://github.com/dcurtis/markdown-mark) - By Dustin Curtis, [CC0](https://github.com/dcurtis/markdown-mark/blob/f2e4b0b14b2ebb0465d88e8a26c9d65de89190a3/LICENSE)
-* [GitHub logo](https://github.com/primer/octicons) - By GitHub, Inc., [SIL OFL 1.1](http://scripts.sil.org/OFL)
-* [Unicorn face emoji](https://github.com/googlei18n/noto-emoji/blob/f2a4f72/svg/emoji_u1f984.svg) - By Google Inc., [Apache2](https://github.com/googlei18n/noto-emoji/blob/f7abf9645ce10d923fb5e8bccf62e0ffae47b999/LICENSE)
+* [Markdown mark](https://github.com/dcurtis/markdown-mark) - By Dustin Curtis,
+  [CC0](https://github.com/dcurtis/markdown-mark/blob/f2e4b0b14b2ebb0465d88e8a26c9d65de89190a3/LICENSE)
+* [GitHub logo](https://github.com/primer/octicons) - By GitHub, Inc.,
+  [SIL OFL 1.1](http://scripts.sil.org/OFL)
+* [Unicorn face emoji](https://github.com/googlei18n/noto-emoji/blob/f2a4f72/svg/emoji_u1f984.svg) - By Google Inc.,
+  [Apache2](https://github.com/googlei18n/noto-emoji/blob/f7abf9645ce10d923fb5e8bccf62e0ffae47b999/LICENSE)
 * [GitPitch](https://gitpitch.com/) - By David Russell,
   [MIT License](https://github.com/gitpitch/gitpitch/blob/7c4efa5ab0fa5808d81000d3f167a811586b2685/LICENSE.txt)
+* [reveal.js](https://github.com/hakimel/reveal.js/) - By Hakim El Hattab,
+  [MIT License](https://github.com/hakimel/reveal.js/blob/e8164c13923b65c60cca122aeab6e61cb5377e80/LICENSE)
 
-Except where otherwise noted - Copyright (c) 2017 Bryan Davis and contributors, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Copyright (c) 2017 Bryan Davis and contributors,
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
